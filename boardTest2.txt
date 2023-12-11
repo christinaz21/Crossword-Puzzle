@@ -1,0 +1,118 @@
+225
+X
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2
+2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5
+5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10
+10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11
+12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 13 13 13 13 13 13 13 13 13 13
+13 13 13 13 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+Y
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+ACROSS
+5 Sink in place?
+6 Consider
+4 Crouched behind a couch, maybe
+5 Way off base?
+5 Bust in a Dali painting
+5 Book format
+5 Give or take
+10 Rooster alternative?
+7 Vertex connectors
+8 Real rule lover
+8 Wear
+4 Nothing's opposite
+3 Retiree agency: Abbr.
+15 Bet on the "Annie" soundtrack
+5 Yappy greeting
+4 Half a dozen
+6 Envied, e.g.
+6 Dethrone
+4 20 percent of the meal, maybe
+5 Indigenous people of New Zealand
+7 Grinders
+5 All __ respect
+3 Draw
+15 Good place to swear?
+4 Lab coat?
+4 Extinct kiwi cousin
+7 Organ that's often drawn incorrectly
+10 Over head?
+5 Ridley of "Star Wars"
+11 Nostalgic place for a trip?
+4 ___ d'Ivoire
+6 Some are gray
+5 Not odd
+4 Install a cable?
+6 Landscaper's purchase
+5 Monopoly aquisition
+4 Prozac or Zoloft, e.g.: Abbr.
+
+DOWN
+5 Ctrl+S
+5 L. Frank ___, creator of Oz
+5 Disaster aid org.
+5 Was in the red
+5 Around there
+5 Manual readers
+10 Scatterbrained
+5 Enemy of Paris?
+7 Roker of "Today"
+4 Not well done?
+4 One of four playable characters in Super Mario Bros. 2
+7 Grammy winner Phillipa
+8 They go under some coats
+4 Rosalind Franklin's double-helix
+4 Phishing lures, maybe?
+7 Account
+4 Flotsam or Jetsam?
+5 Polish
+6 Aced (it)
+5 Periods
+6 Nitrous ___
+4 Spelunking locale
+7 Like some enemies
+5 What you might do to a "pull" door
+3 Michelle Obama ___ Robinson
+8 Grinders
+4 Frankfort-to-Raleigh dir.
+3 Coda
+9 Praise
+6 Down
+5 Incredible Ruffalo role
+4 Messenger for genetic information
+6 Follows in one's footsteps?
+6 Heroes
+9 Symbol systems
+6 Cubes in the kitchen
+5 Environmental activist Brockovich
+4 Mix up
+6 Gumbo fruit
+5 Ran out of juice
+4 "Monsters, Inc." outcast
+
+ANSWERS
+S O F A * D E E M * * H I D *
+A W O L * N E R O * A U D I O
+V E R B * A L A R M C L O C K
+E D G E S * * S T I C K L E R
+* * E R O D E * A L L * S S A
+B O T T O M D O L L A R * * *
+A R F * * S I X * S I N N E D
+U S U R P * T I P * M A O R I
+M O L A R S * D U E * * T I E
+* * * W I T N E S S S T A N D
+F U R * M O A * H E A R T * *
+E S O T E R I C * * D A I S Y
+M E M O R Y L A N E * C O T E
+A R E A S * E V E N * K N I T
+* S O D * * D E E D * S S R I
